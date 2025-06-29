@@ -1,6 +1,4 @@
-//Name: safiya abdi rahmaan
-//ID:C6230068
-//Class:Cns231
+
 
 import java.util.Date;
 import java.util.Scanner;
